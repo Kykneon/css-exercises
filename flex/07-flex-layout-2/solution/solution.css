@@ -30,6 +30,7 @@ body {
 
 /* SOLUTION */
 
+
 body {
   display: flex;
   flex-direction: column;
